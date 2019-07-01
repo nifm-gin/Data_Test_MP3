@@ -1,0 +1,64 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+Pipeline started on 01-Jul-2019 18:26:51
+user: cbrossard, host: gin-e05-renoir, system: unix
+***************************************************
+01-Jul-2019 18:27:07 Module_Reshape1         submitted  (1 run | 0 fail | 0 done | 14 left)
+01-Jul-2019 18:27:07 Module_T2map1           submitted  (2 run | 0 fail | 0 done | 13 left)
+01-Jul-2019 18:27:07 Module_MGE2Dfrom3D1     submitted  (3 run | 0 fail | 0 done | 12 left)
+01-Jul-2019 18:27:07 Module_Fit_T2_T2star1_1 submitted  (4 run | 0 fail | 0 done | 11 left)
+01-Jul-2019 18:27:07 Module_Fit_T2_T2star1_2 submitted  (5 run | 0 fail | 0 done | 10 left)
+01-Jul-2019 18:27:07 Module_DeltaR21         submitted  (6 run | 0 fail | 0 done | 9 left)
+01-Jul-2019 18:27:07 Module_DCE_phenomeno1   submitted  (7 run | 0 fail | 0 done | 8 left)
+01-Jul-2019 18:27:07 Stopping idle worker 5 (not enough jobs left to do).
+01-Jul-2019 18:27:07 Stopping idle worker 9 (not enough jobs left to do).
+01-Jul-2019 18:27:07 Stopping idle worker 11 (not enough jobs left to do).
+01-Jul-2019 18:27:07 Stopping idle worker 12 (not enough jobs left to do).
+01-Jul-2019 18:27:07 Stopping idle worker 13 (not enough jobs left to do).
+01-Jul-2019 18:27:08 Stopping idle worker 10 (not enough jobs left to do).
+01-Jul-2019 18:27:08 Stopping idle worker 14 (not enough jobs left to do).
+01-Jul-2019 18:27:13 Module_MGE2Dfrom3D1     finished   (6 run | 0 fail | 1 done | 8 left)
+01-Jul-2019 18:27:13 Module_DeltaR21         finished   (5 run | 0 fail | 2 done | 8 left)
+01-Jul-2019 18:27:13 Module_Fit_T2_T2star1   submitted  (6 run | 0 fail | 2 done | 7 left)
+01-Jul-2019 18:27:13 Stopping idle worker 7 (not enough jobs left to do).
+01-Jul-2019 18:27:14 Module_Reshape1         finished   (5 run | 0 fail | 3 done | 7 left)
+01-Jul-2019 18:27:14 Module_Arithmetic1      submitted  (6 run | 0 fail | 3 done | 6 left)
+01-Jul-2019 18:27:14 Stopping idle worker 15 (not enough jobs left to do).
+01-Jul-2019 18:27:14 Module_Arithmetic1      finished   (5 run | 0 fail | 4 done | 6 left)
+01-Jul-2019 18:27:15 Module_DCE_phenomeno1   finished   (4 run | 0 fail | 5 done | 6 left)
+.
+01-Jul-2019 18:27:32 Module_T2map1           finished   (3 run | 0 fail | 6 done | 6 left)
+01-Jul-2019 18:27:33 Module_Fit_T2_T2star1_1 finished   (2 run | 0 fail | 7 done | 6 left)
+01-Jul-2019 18:27:35 Module_Fit_T2_T2star1   finished   (1 run | 0 fail | 8 done | 6 left)
+01-Jul-2019 18:27:35 Module_R2Prim1          submitted  (2 run | 0 fail | 8 done | 5 left)
+01-Jul-2019 18:27:35 Stopping idle worker 2 (not enough jobs left to do).
+01-Jul-2019 18:27:36 Module_R2Prim1          finished   (1 run | 0 fail | 9 done | 5 left)
+01-Jul-2019 18:27:50 Module_Fit_T2_T2star1_2 finished   (0 run | 0 fail | 10 done | 5 left)
+01-Jul-2019 18:27:50 Module_DeltaR2Star1     submitted  (1 run | 0 fail | 10 done | 4 left)
+01-Jul-2019 18:27:50 Stopping idle worker 3 (not enough jobs left to do).
+01-Jul-2019 18:27:50 Module_DeltaR2Star1     finished   (0 run | 0 fail | 11 done | 4 left)
+01-Jul-2019 18:27:50 Module_BVf1             submitted  (1 run | 0 fail | 11 done | 3 left)
+01-Jul-2019 18:27:50 Module_VSI1             submitted  (2 run | 0 fail | 11 done | 2 left)
+01-Jul-2019 18:27:50 Module_Density1         submitted  (3 run | 0 fail | 11 done | 1 left)
+01-Jul-2019 18:27:50 Stopping idle worker 8 (not enough jobs left to do).
+01-Jul-2019 18:27:51 Module_BVf1             finished   (2 run | 0 fail | 12 done | 1 left)
+01-Jul-2019 18:27:51 Module_SO21             submitted  (3 run | 0 fail | 12 done | 0 left)
+01-Jul-2019 18:27:51 Module_SO21             finished   (2 run | 0 fail | 13 done | 0 left)
+01-Jul-2019 18:27:51 Module_VSI1             finished   (1 run | 0 fail | 14 done | 0 left)
+01-Jul-2019 18:27:51 Module_Density1         finished   (0 run | 0 fail | 15 done | 0 left)
+01-Jul-2019 18:27:51 Stopping idle worker 1 (not enough jobs left to do).
+01-Jul-2019 18:27:51 Stopping idle worker 4 (not enough jobs left to do).
+01-Jul-2019 18:27:51 Stopping idle worker 6 (not enough jobs left to do).
+
+*******************************************
+Pipeline terminated on 01-Jul-2019 18:27:51
+All jobs have been successfully completed.

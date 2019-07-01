@@ -1,0 +1,28 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+Collecting logs of job Module_MGE2Dfrom3D1
+Collecting logs of job Module_DeltaR21
+Collecting logs of job Module_Reshape1
+Collecting logs of job Module_Arithmetic1
+Collecting logs of job Module_DCE_phenomeno1
+.
+Collecting logs of job Module_T2map1
+Collecting logs of job Module_Fit_T2_T2star1_1
+Collecting logs of job Module_Fit_T2_T2star1
+Collecting logs of job Module_R2Prim1
+Collecting logs of job Module_Fit_T2_T2star1_2
+Collecting logs of job Module_DeltaR2Star1
+Collecting logs of job Module_BVf1
+Collecting logs of job Module_SO21
+Collecting logs of job Module_VSI1
+Collecting logs of job Module_Density1
+Pipeline exited

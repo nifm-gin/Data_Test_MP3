@@ -1,0 +1,71 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Deleting file '/home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/PSOM/worker/psom3/new_jobs.mat' 
+Deleting file '/home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/PSOM/worker/psom3/new_jobs.ready' 
+
+******************************
+Log of the (matlab) job : Module_MGE2Dfrom3D1
+Started on 01-Jul-2019 18:27:08
+User: cbrossard
+host : gin-e05-renoir
+system : unix
+******************************
+
+
+The output file or directory /home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/Tmp/A02_D19T01_MGE2Dfrom3D.nii was successfully generated!
+
+*********************************************************
+01-Jul-2019 18:27:13 : The job was successfully completed
+Total time used to process the job : 4.90 sec.
+*********************************************************
+Deleting file '/home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/PSOM/worker/psom3/new_jobs.mat' 
+Deleting file '/home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/PSOM/worker/psom3/new_jobs.ready' 
+
+******************************
+Log of the (matlab) job : Module_Fit_T2_T2star1
+Started on 01-Jul-2019 18:27:13
+User: cbrossard
+host : gin-e05-renoir
+system : unix
+******************************
+Starting parallel pool (parpool) using the 'local' profile ...
+[Warning: The cluster reported an error while deleting an unavailable job.  This
+job may already have been deleted.] 
+[> In parallel.internal.cluster.CJSJobMethods.destroyOneJob (line 77)
+  In parallel.job.CJSConcurrentJob/destroyOneJob (line 48)
+  In parallel.Job/delete (line 1176)
+  In parallel.Cluster/applyJobProperties (line 341)
+  In parallel.Cluster/createConcurrentJob (line 1018)
+  In parallel.internal.pool.InteractiveClient>iCreateCommunicatingJob (line 742)
+  In parallel.internal.pool.InteractiveClient/start (line 329)
+  In parallel.Pool>iStartClient (line 772)
+  In parallel.Pool.hBuildPool (line 586)
+  In parallel.internal.pool.doParpool (line 18)
+  In parpool (line 98)
+  In parallel.internal.pool.PoolArrayManager.getOrAutoCreateWithCleanup (line 60)
+  In pctTryCreatePoolIfNecessary (line 23)
+  In distcomp.remoteparfor.tryRemoteParfor
+  In parallel_function (line 433)
+  In Module_Fit_T2_T2star (line 164)
+  In psom_run_job>sub_eval (line 185)
+  In psom_run_job (line 106)
+  In psom_worker (line 161)] 
+
+
+
+The output file or directory /home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/Tmp/A02_D19T01_MGE2Dfrom3D_Fit_T2star.nii was successfully generated!
+
+*********************************************************
+01-Jul-2019 18:27:34 : The job was successfully completed
+Total time used to process the job : 21.20 sec.
+*********************************************************
+01-Jul-2019 18:27:50 - The manager has requested to end the work asap!
+01-Jul-2019 18:27:50 - The manager has requested to end the work asap!

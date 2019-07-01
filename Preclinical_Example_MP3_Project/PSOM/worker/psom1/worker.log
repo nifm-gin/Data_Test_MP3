@@ -1,0 +1,119 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Deleting file '/home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/PSOM/worker/psom1/new_jobs.mat' 
+Deleting file '/home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/PSOM/worker/psom1/new_jobs.ready' 
+
+******************************
+Log of the (matlab) job : Module_Reshape1
+Started on 01-Jul-2019 18:27:08
+User: cbrossard
+host : gin-e05-renoir
+system : unix
+******************************
+
+
+The output file or directory /home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/Tmp/A02_D19T01_DWI_processed_Masked_Reshape.nii was successfully generated!
+
+*********************************************************
+01-Jul-2019 18:27:13 : The job was successfully completed
+Total time used to process the job : 5.23 sec.
+*********************************************************
+Deleting file '/home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/PSOM/worker/psom1/new_jobs.mat' 
+Deleting file '/home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/PSOM/worker/psom1/new_jobs.ready' 
+
+******************************
+Log of the (matlab) job : Module_Arithmetic1
+Started on 01-Jul-2019 18:27:14
+User: cbrossard
+host : gin-e05-renoir
+system : unix
+******************************
+
+
+The output file or directory /home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/Tmp/A02_D19T01_DWI_processed_Masked_Reshape_Arith.nii was successfully generated!
+
+*********************************************************
+01-Jul-2019 18:27:14 : The job was successfully completed
+Total time used to process the job : 0.20 sec.
+*********************************************************
+Deleting file '/home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/PSOM/worker/psom1/new_jobs.mat' 
+Deleting file '/home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/PSOM/worker/psom1/new_jobs.ready' 
+
+******************************
+Log of the (matlab) job : Module_R2Prim1
+Started on 01-Jul-2019 18:27:35
+User: cbrossard
+host : gin-e05-renoir
+system : unix
+******************************
+
+
+The output file or directory /home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/Tmp/A02_D19T01_R2Prim.nii was successfully generated!
+
+*********************************************************
+01-Jul-2019 18:27:36 : The job was successfully completed
+Total time used to process the job : 0.41 sec.
+*********************************************************
+Deleting file '/home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/PSOM/worker/psom1/new_jobs.mat' 
+Deleting file '/home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/PSOM/worker/psom1/new_jobs.ready' 
+
+******************************
+Log of the (matlab) job : Module_DeltaR2Star1
+Started on 01-Jul-2019 18:27:50
+User: cbrossard
+host : gin-e05-renoir
+system : unix
+******************************
+
+
+The output file or directory /home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/Tmp/A02_D19T01_DeltaR2Star.nii was successfully generated!
+
+*********************************************************
+01-Jul-2019 18:27:50 : The job was successfully completed
+Total time used to process the job : 0.11 sec.
+*********************************************************
+Deleting file '/home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/PSOM/worker/psom1/new_jobs.mat' 
+Deleting file '/home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/PSOM/worker/psom1/new_jobs.ready' 
+
+******************************
+Log of the (matlab) job : Module_BVf1
+Started on 01-Jul-2019 18:27:50
+User: cbrossard
+host : gin-e05-renoir
+system : unix
+******************************
+
+
+The output file or directory /home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/Tmp/A02_D19T01_BVf.nii was successfully generated!
+
+*********************************************************
+01-Jul-2019 18:27:50 : The job was successfully completed
+Total time used to process the job : 0.09 sec.
+*********************************************************
+Deleting file '/home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/PSOM/worker/psom1/new_jobs.mat' 
+Deleting file '/home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/PSOM/worker/psom1/new_jobs.ready' 
+
+******************************
+Log of the (matlab) job : Module_SO21
+Started on 01-Jul-2019 18:27:51
+User: cbrossard
+host : gin-e05-renoir
+system : unix
+******************************
+
+
+The output file or directory /home/cbrossard/DATA/Projets_MP3/Preclinical_Example_MP3_Project/Tmp/A02_D19T01_SO2.nii was successfully generated!
+
+*********************************************************
+01-Jul-2019 18:27:51 : The job was successfully completed
+Total time used to process the job : 0.09 sec.
+*********************************************************
+01-Jul-2019 18:27:51 - The manager has requested to end the work asap!
