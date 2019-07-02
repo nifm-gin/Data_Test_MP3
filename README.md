@@ -1,5 +1,5 @@
 # Data_Test_MP3
-MP3 Projects aimed to test our software available at https://github.com/nifm-gin/MP3
+MP3 Projects aimed to test our software MP3, which is available at https://github.com/nifm-gin/MP3
 
 
 ## Preclinical_Example_MP3_Project
